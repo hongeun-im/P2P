@@ -1,4 +1,4 @@
-# Mathematical Study Group
+# Paper to Peer (P2P): A mathematics paper reading group
 
 ## About
 
