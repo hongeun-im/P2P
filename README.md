@@ -18,6 +18,6 @@ One member gives a presentation each week. Previous and upcoming sessions are li
 
 ### Fall 2026
 
-- **Week 1** (Sep. 07, 2026) - *Presenter: H. Im*
-- **Week 2** (Sep. 14, 2026) - *Presenter: W. Shin*
-- **Week 3** (Sep. 21, 2026) Beyond Geometry: Comparing the Temporal Structure of Computation in Neural Circuits with Dynamical Similarity Analysis ([Ostrow et al., 2023](https://arxiv.org/abs/2306.10168)) - *Presenter: H. Lee*
+- **Week 1** (Sep. 07, 2026; Presenter: H. Im)
+- **Week 2** (Sep. 14, 2026; Presenter: W. Shin)
+- **Week 3** (Sep. 21, 2026; Presenter: H. Lee) - Beyond Geometry: Comparing the Temporal Structure of Computation in Neural Circuits with Dynamical Similarity Analysis ([Ostrow et al., 2023](https://arxiv.org/abs/2306.10168))
