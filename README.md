@@ -18,6 +18,6 @@ One member gives a presentation each week. Previous and upcoming sessions are li
 
 ### Fall 2026
 
-- **Week 1** (Sep. 07, 2026)
+- **Week 1** (Sep. 07, 2026) - Signed Laplacians for Constrained Graph Clustering
 - **Week 2** (Sep. 14, 2026)
 - **Week 3** (Sep. 21, 2026) - Beyond Geometry: Comparing the Temporal Structure of Computation in Neural Circuits with Dynamical Similarity Analysis ([Ostrow et al., 2023](https://arxiv.org/abs/2306.10168))
