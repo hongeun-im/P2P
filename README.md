@@ -3,6 +3,7 @@
 ## About
 
 <img src = "P2P_README.jpg">
+
 This repository is for a **student journal club on mathematical concepts and research papers**. We aim to improve both research skills and academic interaction by:
   - Explaining mathematical concepts and trending research papers.
   - Sharing mathematical perspectives across different research areas.
