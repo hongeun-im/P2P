@@ -24,4 +24,4 @@ One member gives a presentation each week. Previous and upcoming sessions are li
 - **Week 2** (Sep. 14, 2026) Matrix-weighted consensus and its applications ([Trinh et al., 2018](https://doi.org/10.1016/j.automatica.2017.12.024)) - *Presenter: Woojin Shin*
 - **Week 3** (Sep. 21, 2026) Beyond Geometry: Comparing the Temporal Structure of Computation in Neural Circuits with Dynamical Similarity Analysis ([Ostrow et al., 2023](https://arxiv.org/abs/2306.10168)) - *Presenter: Hyo-jeong Lee*
 - **Week 4** (Sep. 28, 2026) Parameterized Algorithms ([Cygan et al., 2016](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf)) - *Presenter: Hongeun Im*
-- **Week 5** (Oct. 05, 2026) Classification and Geometry of General Perceptual Manifolds ([Chung et al., 2018](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.031003)) (1) - *Presenter: Hyo-jeong Lee*
+- **Week 5** (Oct. 05, 2026) Classification and Geometry of General Perceptual Manifolds ([Chung et al., 2018](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.031003)) - *Presenter: Hyo-jeong Lee*
