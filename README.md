@@ -13,14 +13,14 @@ One member gives a presentation each week. Previous and upcoming sessions are li
 ## Members
 
 - **Woojin Shin** ([@Adobby77](https://github.com/Adobby77))
-- **Hongeun Im** ([@hongeun-im](https://github.com/hongeun-im))
+- **Hongeun Im** ([@hongeun-im](https://github.com/hongeun-im)) interests: algorithms, graph theory, combinatorics
 - **Hyo-jeong Lee** ([@hjlee11190](https://github.com/hjlee11190))
 
 ## Schedule
 
 ### Fall 2026
 
-- **Week 1** (Sep. 07, 2026) Signed Laplacians for Constrained Graph Clustering ([JSF Carrasco, H Sun, 2025](https://openreview.net/forum?id=MHaSq1LlTe)) - *Presenter: Hongeun Im*
+- **Week 1** (Sep. 07, 2026) Signed Laplacians for Constrained Graph Clustering ([Carrasco & Sun, 2025](https://openreview.net/forum?id=MHaSq1LlTe)) - *Presenter: Hongeun Im*
 - **Week 2** (Sep. 14, 2026) Matrix-weighted consensus and its applications ([Trinh et al., 2018](https://doi.org/10.1016/j.automatica.2017.12.024)) - *Presenter: Woojin Shin*
 - **Week 3** (Sep. 21, 2026) Beyond Geometry: Comparing the Temporal Structure of Computation in Neural Circuits with Dynamical Similarity Analysis ([Ostrow et al., 2023](https://arxiv.org/abs/2306.10168)) - *Presenter: Hyo-jeong Lee*
 - **Week 4** (Sep. 28, 2026) Parameterized Algorithms ([Cygan et al., 2016](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf)) - *Presenter: Hongeun Im*
