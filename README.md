@@ -7,6 +7,7 @@
 This repository is for a **student journal club on mathematical concepts and research papers**. We aim to improve both research skills and academic interaction by:
   - Explaining mathematical concepts and trending research papers.
   - Sharing mathematical perspectives across different research areas.
+    
 If you have any inquiries, please contact: paper2peer@gmail.com
 
 One member gives a presentation each week. Previous and upcoming sessions are listed below.
