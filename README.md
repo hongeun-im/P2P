@@ -14,7 +14,7 @@ One member gives a presentation each week. Previous and upcoming sessions are li
 
 ## Members
 
-- **Woojin Shin** ([@Adobby77](https://github.com/Adobby77))
+- **Woojin Shin** ([@Adobby77](https://github.com/Adobby77)) interests: Control Theory, Distance Geometry, Graph Theory
 - **Hongeun Im** ([@hongeun-im](https://github.com/hongeun-im)) interests: algorithms, graph theory, combinatorics
 - **Hyo-jeong Lee** ([@hjlee11190](https://github.com/hjlee11190))
 
