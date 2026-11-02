@@ -26,7 +26,7 @@ One member gives a presentation each week. Previous and upcoming sessions are li
 - **Week 4** (Sep. 28, 2026) Parameterized Algorithms ([Cygan et al., 2016](https://www.mimuw.edu.pl/~malcin/book/parameterized-algorithms.pdf)) - *Presenter: Hongeun Im*
 - **Week 5** (Oct. 05, 2026) Classification and Geometry of General Perceptual Manifolds ([Chung et al., 2018](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.031003)) - *Presenter: Hyo-jeong Lee*
 - **Week 6** (Oct. 27, 2026) Control of Multi-agent systems from Graph-theoretic perspective ([Rahmani et al., 2009](https://epubs.siam.org/doi/10.1137/060674909)) - *Presenter: Woojin Shin*
-- **Week 7** (Nov. 2, 2026) Slice Rank and the Cap Set Problem - *Presenter: Eon Lee*
+- **Week 7** (Nov. 2, 2026) Slice Rank and the Cap Set Problem ([Tao & Sawin, 2016](https://terrytao.wordpress.com/tag/polynomial-method/)) - *Presenter: Eon Lee*
 - **Week 8** (Nov. 9, 2026) TBD - *Presenter: Hongeun Im*
 - **Week 8** (Nov. 16, 2026) TBD - *Presenter: Woojin Shin*
 - **Week 8** (Nov. 23, 2026) TBD - *Presenter: Hyo-jeong Lee*
