@@ -30,5 +30,5 @@ One member gives a presentation each week. Previous and upcoming sessions are li
 - **Week 6** (Oct. 27, 2026) Control of Multi-agent systems from Graph-theoretic perspective ([Rahmani et al., 2009](https://epubs.siam.org/doi/10.1137/060674909)) - *Presenter: Woojin Shin*
 - **Week 7** (Nov. 2, 2026) Slice Rank and the Cap Set Problem ([Tao & Sawin, 2016](https://terrytao.wordpress.com/tag/polynomial-method/)) - *Presenter: Eon Lee*
 - **Week 8** (Nov. 9, 2026) Pre-assignment problem for unique minimum vertex cover on bounded clique-width graphs ([An et al., 2024](https://arxiv.org/abs/2408.09591)) - *Presenter: Hongeun Im*
-- **Week 9** (Nov. 16, 2026) Blended Dynamics: (Working title) Collective behavior of heterogeneous multi-agent system - *Presenter: Woojin Shin*
+- **Week 9** (Nov. 16, 2026) (Working title) Blended Dynamics: Collective behavior of heterogeneous multi-agent system - *Presenter: Woojin Shin*
 - **Week 10** (Nov. 23, 2026) TBD - *Presenter: Hyo-jeong Lee*
