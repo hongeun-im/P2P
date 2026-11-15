@@ -9,7 +9,9 @@ This repository is for a **student journal club on mathematical concepts and res
   - Sharing mathematical perspectives across different research areas.
 
 We meet every Monday from 7:30 to 8:30PM at GIST college building A 225.
+
 One member gives a presentation each week. Previous and upcoming sessions are listed below.
+
 If you have any inquiries, please contact: paper2peer@gmail.com
 
 ## Members
