@@ -33,5 +33,5 @@ If you have any inquiries, please contact: paper2peer@gmail.com
 - **Week 7** (Nov. 2, 2026) Slice Rank and the Cap Set Problem ([Tao & Sawin, 2016](https://terrytao.wordpress.com/tag/polynomial-method/)) - *Presenter: Eon Lee*
 - **Week 8** (Nov. 9, 2026) Pre-assignment problem for unique minimum vertex cover on bounded clique-width graphs ([An et al., 2026](https://arxiv.org/abs/2408.09591)) - *Presenter: Hongeun Im*
 - **Week 9** (Nov. 16, 2026) How does a multi-agent system exhibit emergent behavior through synchronization? ([Kim et al., 2016](https://ieeexplore.ieee.org/document/7320979)) - *Presenter: Woojin Shin*
-- **Week 10** (Nov. 23, 2026) TBD - *Presenter: Alisher Omirzak*
+- **Week 10** (Nov. 23, 2026) Foundational mathematics: axioms of logic and set theory - *Presenter: Alisher Omirzak*
 - **Week 11** (Nov. 30, 2026) TBD - *Presenter: Hyo-jeong Lee*
