@@ -16,9 +16,9 @@ If you have any inquiries, please contact: paper2peer@gmail.com
 
 ## Members
 
-- **Woojin Shin** ([@Adobby77](https://github.com/Adobby77)) interests: Control Theory, Distance Geometry, Graph Theory
-- **Hongeun Im** ([@hongeun-im](https://github.com/hongeun-im)) interests: algorithms, graph theory, combinatorics
-- **Hyo-jeong Lee** ([@hjlee11190](https://github.com/hjlee11190))
+- **Woojin Shin** ([@Adobby77](https://github.com/Adobby77)) - Interests: Control Theory, Distance Geometry, Graph Theory
+- **Hongeun Im** ([@hongeun-im](https://github.com/hongeun-im)) - Interests: Algorithms, Graph Theory, Combinatorics
+- **Hyo-jeong Lee** ([@hjlee11190](https://github.com/hjlee11190)) - Interests: Neural Manifolds, Nonlinear Dynamics
 
 ## Schedule
 
@@ -34,4 +34,4 @@ If you have any inquiries, please contact: paper2peer@gmail.com
 - **Week 8** (Nov. 9, 2026) Pre-assignment problem for unique minimum vertex cover on bounded clique-width graphs ([An et al., 2026](https://arxiv.org/abs/2408.09591)) - *Presenter: Hongeun Im*
 - **Week 9** (Nov. 16, 2026) How does a multi-agent system exhibit emergent behavior through synchronization? ([Kim et al., 2016](https://ieeexplore.ieee.org/document/7320979)) - *Presenter: Woojin Shin*
 - **Week 10** (Nov. 23, 2026) Foundational mathematics: axioms of logic and set theory ([Halbeisen & Krapf, 2025](https://link.springer.com/book/10.1007/978-3-031-85106-3) [Cunningham, 2016](https://www.cambridge.org/highereducation/books/set-theory/C07600B6258DDE49F906D20B167082C1#overview)) - *Presenter: Alisher Omirzak*
-- **Week 11** (Nov. 30, 2026) TBD - *Presenter: Hyo-jeong Lee*
+- **Week 11** (Nov. 30, 2026) Probing learning through the lens of changes in circuit dynamics ([Marschall & Savin, 2023](https://www.biorxiv.org/content/10.1101/2023.09.13.557585v1)) &mdash; with a focus on multigraphs - *Presenter: Hyo-jeong Lee*
